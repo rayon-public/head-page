@@ -1,0 +1,159 @@
+body {
+    /* background-color: #00ff00; */
+}
+
+header {
+    background-image: url('images/header-gif1.gif');
+    background-size: 1250px 500px;
+    text-align: center;
+    font-size: 60px;
+    color: #23f8ca;
+    white-space: unset;
+    border: 10px;
+    border-color: black;
+    border-style: solid;
+    margin-top: -70px;
+    padding-top: 20px;
+    cursor: url('images/aim.cur'), default;
+}
+
+header p {
+    white-space: pre;
+    line-height: 0px;
+    padding-top: 5px;
+    /* cursor: text; */
+}
+
+header img {
+    padding-left: 950px;
+    padding-top: 0px;
+    float: left;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+main h1 {
+    font-size: 40px;
+}
+
+main p {
+    font-size: 16pt;
+}
+
+footer {
+    background-color: #252525;
+    outline-color: black;
+    outline-style: solid;
+    outline-width: 10px;
+    color: #0202ff;
+    font-size: 14pt;
+    text-shadow: 0px 0px 1em #23f8ca;
+    background-image: url('images/uzor4.png');
+    background-size: 200px 200px;
+    background-repeat: no-repeat;
+}
+
+footer img {
+    float: right;
+    padding-right: 50px;
+    padding-top: 0px;
+    margin-top: 0px;
+}
+
+footer a {
+    color: blue;
+}
+
+ul {
+    list-style-type: square;
+}
+
+h6 {
+    text-align: center;
+    padding: 0px;
+    margin: 0px;
+}
+
+.adress {
+    padding-top: 25px;
+}
+
+.welcome {
+    padding-top: 0px;
+    padding-bottom: 20px;
+    margin-bottom: 10px;
+    line-height: 0px;
+}
+
+.group {
+    padding: 0px;
+    line-height: 0px;
+    font-size: 14pt;
+    text-align: right;
+    padding-right: 50px;
+    padding-top: 1px;
+    color: #23f8ca;
+    padding-left: 100px;
+}
+
+.group a {
+    color: blue;
+    cursor: pointer;
+}
+
+.last_update {
+    font-size: 40px;
+    padding-right: 50px;
+    float: right;
+    margin-top: 0px;
+    border-color: #1c1c1c;
+    border: 10px;
+    border-style: solid;
+    background-image: url('images/orange.gif');
+    background-size: 700px 725px;
+    background-repeat: no-repeat;
+    padding-bottom: 477px;
+    padding-left: 150px;
+    text-shadow: 0 0 1em red;
+    overflow: auto;
+}
+
+.last_update p, li {
+    font-size: 16pt;
+}
+
+.last_update ul {
+    padding-top: 0px;
+}
+
+.admin_list {
+    background-image: url('images/blue.gif');
+    background-size: 620px 800px;
+    background-repeat: no-repeat;
+    border-color: #1c1c1c;
+    border: 10px;
+    border-style: solid;
+    padding-bottom: 510px;
+    padding-left: 100px;
+    font-size: 40px;
+    overflow: auto;
+}
+
+.admin_list_heading {
+    font-size: 40px;
+}
+
+.contact1 {
+    padding-left: 10px;
+}
+
+.contact2 {
+    padding-left: 250px;
+}
+
+.contact3 {
+    padding-left: 450px;
+}
+
