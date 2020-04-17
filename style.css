@@ -104,6 +104,7 @@ h6 {
 }
 
 .last_update {
+    height: 714px;
     font-size: 40px;
     padding-right: 50px;
     float: right;
@@ -114,10 +115,11 @@ h6 {
     background-image: url('images/orange.gif');
     background-size: 700px 725px;
     background-repeat: no-repeat;
-    padding-bottom: 477px;
+    padding-bottom: 0px;
     padding-left: 150px;
     text-shadow: 0 0 1em red;
     overflow: auto;
+    scrollbar-base-color: rgb(182, 118, 0);
 }
 
 .last_update p, li {
@@ -129,31 +131,24 @@ h6 {
 }
 
 .admin_list {
+    height: 714px;
     background-image: url('images/blue.gif');
     background-size: 620px 800px;
     background-repeat: no-repeat;
     border-color: #1c1c1c;
     border: 10px;
     border-style: solid;
-    padding-bottom: 510px;
+    padding-bottom: 0px;
     padding-left: 100px;
     font-size: 40px;
     overflow: auto;
+    scrollbar-base-color: #23f8ca;
 }
 
 .admin_list_heading {
     font-size: 40px;
 }
 
-.contact1 {
-    padding-left: 10px;
+.first_boot {
+    color: orange;
 }
-
-.contact2 {
-    padding-left: 250px;
-}
-
-.contact3 {
-    padding-left: 450px;
-}
-
