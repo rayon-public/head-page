@@ -1,12 +1,13 @@
 @media handheld {
-    p {
-        color: red;
+    body {
+        
+     background-color: red; 
     }
 }
 
 @media screen {
 body {
-    /* background-color: #00ff00; */
+     background-color: #00ff00; 
 }
 
 header {
@@ -159,7 +160,4 @@ h6 {
 .first_boot {
     color: orange;
 }
-    p {
-        color: green;
-    }
 }
